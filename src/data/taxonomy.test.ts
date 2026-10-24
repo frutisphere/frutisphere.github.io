@@ -40,6 +40,21 @@ describe('taxonomy foundation', () => {
     expect(moreChildren.every((record) => record.kind === 'Category')).toBe(true);
   });
 
+  it('uses production artwork only for the completed Frutiger Aero Level 3 set', () => {
+    const aeroChildren = getSectionChildren('frutiger-aero');
+    const pendingChildren = [
+      ...getSectionChildren('vectordelia'),
+      ...getSectionChildren('more'),
+    ];
+
+    expect(aeroChildren).toHaveLength(18);
+    expect(aeroChildren.every((record) => (
+      record.tileImage.src === `/assets/level-3/frutiger-aero/${record.slug}.png`
+      && record.tileImage.placeholder === false
+    ))).toBe(true);
+    expect(pendingChildren.every((record) => record.tileImage.placeholder === true)).toBe(true);
+  });
+
   it('preserves research aliases and relationship metadata', () => {
     expect(taxonomyById.get('helvetica-aqua-aero')?.aliases).toEqual([
       'Frutiger Aqua',

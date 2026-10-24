@@ -86,7 +86,7 @@
     "summary": "An ecological branch of Frutiger Aero centered on clean energy and optimistic green technology.",
     "colors": ["#62c936", "#9ce6ff", "#ffffff"],
     "motifs": ["renewable energy", "green cities", "clean technology"],
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Eco", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-eco.png", "alt": "Frutiger Eco tile artwork", "placeholder": false},
     "sources": [],
     "specialTheme": "eco-bloom",
     "tags": ["eco", "green", "energy"],
@@ -125,7 +125,7 @@
     "status": "Established",
     "origin": "Historical",
     "summary": "A clean, typographic, aqua-toned branch of the Aero visual language.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Helvetica Aqua Aero", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/helvetica-aqua-aero.png", "alt": "Helvetica Aqua Aero tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["aqua", "typography", "clean"],
     "lastReviewed": "2026-09-24"
@@ -144,7 +144,7 @@
     "status": "Established",
     "origin": "Historical",
     "summary": "An aurora-lit expression of glossy natural and digital atmosphere.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Aurora", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-aurora.png", "alt": "Frutiger Aurora tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["aurora", "light", "atmosphere"],
     "lastReviewed": "2026-09-24"
@@ -163,7 +163,7 @@
     "status": "Established",
     "origin": "Historical",
     "summary": "A darker, nocturnal interpretation of glossy Aero surfaces and luminous technology.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Dark Aero", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/dark-aero.png", "alt": "Dark Aero tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["dark", "gloss", "night"],
     "lastReviewed": "2026-09-24"
@@ -182,7 +182,7 @@
     "status": "Established",
     "origin": "Historical",
     "summary": "Calm, precise technology presented through serene space and refined surfaces.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Technozen", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/technozen.png", "alt": "Technozen tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["technology", "zen", "minimal"],
     "lastReviewed": "2026-09-24"
@@ -201,7 +201,7 @@
     "status": "Established",
     "origin": "Historical",
     "summary": "A historical branch within the broader Frutiger visual ecosystem.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for DORFic", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/dorfic.png", "alt": "DORFic tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["historical", "aero"],
     "lastReviewed": "2026-09-24"
@@ -220,7 +220,7 @@
     "status": "Established",
     "origin": "Historical",
     "summary": "Seasonal color and playful natural motifs within the Frutiger ecosystem.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Funky Seasons", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/funky-seasons.png", "alt": "Funky Seasons tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["seasonal", "colorful", "nature"],
     "lastReviewed": "2026-09-24"
@@ -239,7 +239,7 @@
     "status": "Developing",
     "origin": "Community",
     "summary": "A calm community classification emphasizing tranquil Frutiger spaces.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Zen", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-zen.png", "alt": "Frutiger Zen tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["calm", "serenity", "community"],
     "lastReviewed": "2026-09-24"
@@ -258,7 +258,7 @@
     "status": "Developing",
     "origin": "Community",
     "summary": "An icy community branch combining frozen landscapes with luminous technology.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Cyber Glacier", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/cyber-glacier.png", "alt": "Cyber Glacier tile artwork", "placeholder": false},
     "sources": [],
     "specialTheme": "cyber-glacier",
     "tags": ["winter", "ice", "technology"],
@@ -278,7 +278,7 @@
     "status": "Developing",
     "origin": "Community",
     "summary": "A fruit-focused community branch with bright color and glossy freshness.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Fruits", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-fruits.png", "alt": "Frutiger Fruits tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["fruit", "fresh", "colorful"],
     "lastReviewed": "2026-09-24"
@@ -297,7 +297,7 @@
     "status": "Developing",
     "origin": "Community",
     "summary": "A festive community branch of bright seasonal Frutiger imagery.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Jolly", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-jolly.png", "alt": "Frutiger Jolly tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["festive", "winter", "community"],
     "lastReviewed": "2026-09-24"
@@ -316,7 +316,7 @@
     "status": "Developing",
     "origin": "Fan-made",
     "summary": "A fan-made inversion of Frutiger Aero's optimistic visual language.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Evil", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-evil.png", "alt": "Frutiger Evil tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["dark", "fan-made", "inversion"],
     "lastReviewed": "2026-09-24"
@@ -335,7 +335,7 @@
     "status": "Emerging",
     "origin": "Community",
     "summary": "An emerging rain-focused community classification.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Rain", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-rain.png", "alt": "Frutiger Rain tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["rain", "weather", "community"],
     "lastReviewed": "2026-09-24"
@@ -354,7 +354,7 @@
     "status": "Emerging",
     "origin": "Community",
     "summary": "An emerging desert-focused community classification.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Desert", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-desert.png", "alt": "Frutiger Desert tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["desert", "warm", "community"],
     "lastReviewed": "2026-09-24"
@@ -373,7 +373,7 @@
     "status": "Emerging",
     "origin": "Community",
     "summary": "An emerging autumnal community classification.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Autumn", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-autumn.png", "alt": "Frutiger Autumn tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["autumn", "seasonal", "community"],
     "lastReviewed": "2026-09-24"
@@ -392,7 +392,7 @@
     "status": "Emerging",
     "origin": "Community",
     "summary": "An emerging community classification centered on warm afternoon atmosphere.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Afternoon", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-afternoon.png", "alt": "Frutiger Afternoon tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["afternoon", "light", "community"],
     "lastReviewed": "2026-09-24"
@@ -411,7 +411,7 @@
     "status": "Emerging",
     "origin": "Community",
     "summary": "An emerging cosmic community classification.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Galaxy", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-galaxy.png", "alt": "Frutiger Galaxy tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["space", "galaxy", "community"],
     "lastReviewed": "2026-09-24"
@@ -430,7 +430,7 @@
     "status": "Emerging",
     "origin": "Community",
     "summary": "An emerging Halloween-themed community classification.",
-    "tileImage": {"src": "/assets/placeholders/frutiger-aero-tile.svg", "alt": "Neutral tile image placeholder for Frutiger Halloween", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/frutiger-aero/frutiger-halloween.png", "alt": "Frutiger Halloween tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["halloween", "seasonal", "community"],
     "lastReviewed": "2026-09-24"
