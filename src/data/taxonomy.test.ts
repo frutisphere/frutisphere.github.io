@@ -40,19 +40,26 @@ describe('taxonomy foundation', () => {
     expect(moreChildren.every((record) => record.kind === 'Category')).toBe(true);
   });
 
-  it('uses production artwork only for the completed Frutiger Aero Level 3 set', () => {
-    const aeroChildren = getSectionChildren('frutiger-aero');
-    const pendingChildren = [
-      ...getSectionChildren('vectordelia'),
-      ...getSectionChildren('more'),
-    ];
+  it('uses production artwork for every direct Level 3 grid record', () => {
+    const sections = [
+      { id: 'frutiger-aero', expectedCount: 18 },
+      { id: 'vectordelia', expectedCount: 5 },
+      { id: 'more', expectedCount: 10 },
+    ] as const;
 
-    expect(aeroChildren).toHaveLength(18);
-    expect(aeroChildren.every((record) => (
-      record.tileImage.src === `/assets/level-3/frutiger-aero/${record.slug}.png`
-      && record.tileImage.placeholder === false
-    ))).toBe(true);
-    expect(pendingChildren.every((record) => record.tileImage.placeholder === true)).toBe(true);
+    for (const { id, expectedCount } of sections) {
+      const children = getSectionChildren(id);
+      expect(children).toHaveLength(expectedCount);
+      expect(children.every((record) => (
+        record.tileImage.src === `/assets/level-3/${id}/${record.slug}.png`
+        && record.tileImage.placeholder === false
+      ))).toBe(true);
+    }
+
+    expect(taxonomyById.get('vectorbloom')?.tileImage.placeholder).toBe(true);
+    expect(taxonomyById.get('vectorgarden')?.tileImage.placeholder).toBe(true);
+    expect(taxonomyById.get('high-cleancore')?.tileImage.placeholder).toBe(true);
+    expect(taxonomyById.get('low-cleancore')?.tileImage.placeholder).toBe(true);
   });
 
   it('preserves research aliases and relationship metadata', () => {

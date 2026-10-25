@@ -449,7 +449,7 @@
     "status": "Established",
     "origin": "Historical",
     "summary": "A flourish-led subcategory within Vectordelia's expressive vector language.",
-    "tileImage": {"src": "/assets/placeholders/vectordelia-tile.svg", "alt": "Neutral tile image placeholder for Vectorflourish", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/vectordelia/vectorflourish.png", "alt": "Vectorflourish tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["vector", "flourish"],
     "lastReviewed": "2026-09-24"
@@ -506,7 +506,7 @@
     "status": "Established",
     "origin": "Historical",
     "summary": "A playful metropolitan subcategory within Vectordelia.",
-    "tileImage": {"src": "/assets/placeholders/vectordelia-tile.svg", "alt": "Neutral tile image placeholder for Funky Metro", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/vectordelia/funky-metro.png", "alt": "Funky Metro tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["funky", "metro"],
     "lastReviewed": "2026-09-24"
@@ -525,7 +525,7 @@
     "status": "Established",
     "origin": "Historical",
     "summary": "A club- and rave-inflected metropolitan subcategory within Vectordelia.",
-    "tileImage": {"src": "/assets/placeholders/vectordelia-tile.svg", "alt": "Neutral tile image placeholder for Rave Metro", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/vectordelia/rave-metro.png", "alt": "Rave Metro tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["rave", "metro", "music"],
     "lastReviewed": "2026-09-24"
@@ -544,7 +544,7 @@
     "status": "Established",
     "origin": "Historical",
     "summary": "A distressed metropolitan subcategory within Vectordelia.",
-    "tileImage": {"src": "/assets/placeholders/vectordelia-tile.svg", "alt": "Neutral tile image placeholder for Grungy Metro", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/vectordelia/grungy-metro.png", "alt": "Grungy Metro tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["grunge", "metro"],
     "lastReviewed": "2026-09-24"
@@ -564,7 +564,7 @@
     "origin": "Historical",
     "classificationNotes": "Historical visual material exists, while Musica Metro is a modern retrospective classification still being defined.",
     "summary": "A music-oriented metropolitan subcategory within Vectordelia.",
-    "tileImage": {"src": "/assets/placeholders/vectordelia-tile.svg", "alt": "Neutral tile image placeholder for Musica Metro", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/vectordelia/musica-metro.png", "alt": "Musica Metro tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["music", "metro"],
     "lastReviewed": "2026-09-24"
@@ -581,7 +581,7 @@
     "childIds": [],
     "relatedIds": [],
     "summary": "A curated neighboring aesthetic in the More section.",
-    "tileImage": {"src": "/assets/placeholders/more-tile.svg", "alt": "Neutral tile image placeholder for Gen X Soft Club", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/more/gen-x-soft-club.png", "alt": "Gen X Soft Club tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["soft", "club"],
     "lastReviewed": "2026-09-24"
@@ -598,7 +598,7 @@
     "childIds": [],
     "relatedIds": [],
     "summary": "A curated neighboring aesthetic in the More section.",
-    "tileImage": {"src": "/assets/placeholders/more-tile.svg", "alt": "Neutral tile image placeholder for Utopian Scholastic", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/more/utopian-scholastic.png", "alt": "Utopian Scholastic tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["utopian", "scholastic"],
     "lastReviewed": "2026-09-24"
@@ -615,7 +615,7 @@
     "childIds": [],
     "relatedIds": [],
     "summary": "A selected, relevant neighboring aesthetic without importing the broader Y2K taxonomy.",
-    "tileImage": {"src": "/assets/placeholders/more-tile.svg", "alt": "Neutral tile image placeholder for Y2K Futurism", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/more/y2k-futurism.png", "alt": "Y2K Futurism tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["y2k", "futurism"],
     "lastReviewed": "2026-09-24"
@@ -632,7 +632,7 @@
     "childIds": [],
     "relatedIds": [],
     "summary": "A curated neighboring aesthetic in the More section.",
-    "tileImage": {"src": "/assets/placeholders/more-tile.svg", "alt": "Neutral tile image placeholder for Bright Tertiaries", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/more/bright-tertiaries.png", "alt": "Bright Tertiaries tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["color", "bright"],
     "lastReviewed": "2026-09-24"
@@ -649,7 +649,7 @@
     "childIds": [],
     "relatedIds": [],
     "summary": "A curated neighboring aesthetic in the More section.",
-    "tileImage": {"src": "/assets/placeholders/more-tile.svg", "alt": "Neutral tile image placeholder for Superflat Pop", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/more/superflat-pop.png", "alt": "Superflat Pop tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["superflat", "pop"],
     "lastReviewed": "2026-09-24"
@@ -666,7 +666,7 @@
     "childIds": [],
     "relatedIds": ["dorfic"],
     "summary": "A curated neighboring aesthetic in the More section.",
-    "tileImage": {"src": "/assets/placeholders/more-tile.svg", "alt": "Neutral tile image placeholder for Abstract Tech", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/more/abstract-tech.png", "alt": "Abstract Tech tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["abstract", "technology"],
     "lastReviewed": "2026-09-24"
@@ -683,7 +683,7 @@
     "childIds": ["high-cleancore", "low-cleancore"],
     "relatedIds": [],
     "summary": "A clean-space aesthetic with High and Low Cleancore subcategories.",
-    "tileImage": {"src": "/assets/placeholders/more-tile.svg", "alt": "Neutral tile image placeholder for Cleancore", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/more/cleancore.png", "alt": "Cleancore tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["clean", "hygiene", "space"],
     "lastReviewed": "2026-09-24"
@@ -734,7 +734,7 @@
     "childIds": [],
     "relatedIds": [],
     "summary": "A curated neighboring aesthetic in the More section.",
-    "tileImage": {"src": "/assets/placeholders/more-tile.svg", "alt": "Neutral tile image placeholder for Gamecore", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/more/gamecore.png", "alt": "Gamecore tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["games", "digital"],
     "lastReviewed": "2026-09-24"
@@ -751,7 +751,7 @@
     "childIds": [],
     "relatedIds": [],
     "summary": "A curated neighboring aesthetic in the More section.",
-    "tileImage": {"src": "/assets/placeholders/more-tile.svg", "alt": "Neutral tile image placeholder for Flat Design", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/more/flat-design.png", "alt": "Flat Design tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["flat", "design"],
     "lastReviewed": "2026-09-24"
@@ -768,7 +768,7 @@
     "childIds": [],
     "relatedIds": [],
     "summary": "A curated neighboring aesthetic in the More section.",
-    "tileImage": {"src": "/assets/placeholders/more-tile.svg", "alt": "Neutral tile image placeholder for Hexatron", "placeholder": true},
+    "tileImage": {"src": "/assets/level-3/more/hexatron.png", "alt": "Hexatron tile artwork", "placeholder": false},
     "sources": [],
     "tags": ["hexagon", "technology"],
     "lastReviewed": "2026-09-24"
