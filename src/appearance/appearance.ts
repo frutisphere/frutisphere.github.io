@@ -12,7 +12,7 @@ export const ACCENT_OPTIONS = [
   { id: 'orange', name: 'Orange', color: '#dc7a16' },
   { id: 'pink', name: 'Pink', color: '#d84d8f' },
   { id: 'purple', name: 'Purple', color: '#8259ba' },
-  { id: 'white', name: 'White', color: '#ffffff' },
+  { id: 'white', name: 'White', color: '#d6e3e7' },
   { id: 'gray', name: 'Gray', color: '#718087' },
   { id: 'dark', name: 'Dark', color: '#25363d' },
 ] as const;

@@ -29,8 +29,6 @@ export function HomePage() {
         <section className="portal-hero" aria-labelledby="home-heading">
           <div className="portal-hero-orbit" aria-hidden="true">
             <span />
-            <span />
-            <span />
           </div>
           <div className="home-logo-stage">
             <img
